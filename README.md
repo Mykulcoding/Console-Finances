@@ -19,34 +19,34 @@ Financial Analysis
 - Greatest Increase in Profits/Losses: Feb-2012 ($1,926,159)
 - Greatest Decrease in Profits/Losses: Sep-2013 ($-2,196,167)
 
-![Financial Analysis Screenshot](Console-Finances/image/Financial-Analysis-Screenshot.PNG) alt = "Screenshot"
+![Screenshot](Console-Finances/image/Financial-Analysis-Screenshot.PNG "Screenshot")
 
 ## How to Use
 
-- Open the HTML file in a web browser.**
-- Open the browser console to view the analysis results.**
-- Code Explanation**
-- The JavaScript code calculates the required financial metrics and logs the results to the console.**
+- Open the HTML file in a web browser.
+- Open the browser console to view the analysis results.
+- Code Explanation.
+- The JavaScript code calculates the required financial metrics and logs the results to the console.
 
-**Total Months:** Calculated using the length of the dataset.
+Total Months: Calculated using the length of the dataset.
 
-**Total:** The net total amount of Profit/Losses over the entire period.
+Total: The net total amount of Profit/Losses over the entire period.
 
-**Average Change:** The average of the changes in Profit/Losses over the entire period.
+Average Change: The average of the changes in Profit/Losses over the entire period.
 
-**Greatest Increase:** The month and amount with the greatest increase in Profit/Losses.
+Greatest Increase: The month and amount with the greatest increase in Profit/Losses.
 
 **Greatest Decrease:** The month and amount with the greatest decrease in Profit/Losses.
 
 
-# Link to deployed website:
+## Link to deployed website:
 https://mykulcoding.github.io/Console-Finances/
 
-# Collaboration
+## Collaboration
 
 - [Dev Community](https://dev.to/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [W3 Coding](https://www.w3schools.com/)
 
-# Licence
+## Licence
 Please find licence in the folder

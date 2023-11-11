@@ -2,17 +2,12 @@
 
 This project highlights how my JavaScript code analyzes financial records of a company using the provided dataset. The analysis includes calculating the total number of months, net total amount of Profit/Losses, average change in Profit/Losses, and identifying the greatest increase and decrease in Profit/Losses over the entire period.
 
-## Dataset
+# Dataset
 
 The financial dataset is an array of arrays, where each sub-array contains two fields: Date and Profit/Losses.
 
-```javascript
-const finances = [
-  
-];
 
-
-## Analysis Results
+# Analysis Results
 When you run the code in a browser, the resulting analysis will look similar to the below: 
 
 
@@ -26,7 +21,7 @@ Financial Analysis
 
 Screenshot:Console-Finances\image\Financial-Analysis-Screenshot.PNG
 
-## How to Use
+# How to Use
 Open the HTML file in a web browser.
 Open the browser console to view the analysis results.
 Code Explanation
@@ -39,13 +34,13 @@ Greatest Increase: The month and amount with the greatest increase in Profit/Los
 Greatest Decrease: The month and amount with the greatest decrease in Profit/Losses.
 
 # Link to deployed website
-:
+:https://mykulcoding.github.io/Console-Finances/
 
-## Collaboration
+# Collaboration
 
 #Dev Community
 #Stack Overflow
 #W3 Coding
 
-## Licence
+# Licence
 Please find licence in the folder

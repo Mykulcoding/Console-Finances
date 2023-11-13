@@ -19,8 +19,6 @@ Financial Analysis
 - Greatest Increase in Profits/Losses: Feb-2012 ($1,926,159)
 - Greatest Decrease in Profits/Losses: Sep-2013 ($-2,196,167)
 
-![Screenshot](Console-Finances/image/Financial-Analysis-Screenshot.PNG "Screenshot")
-
 ## How to Use
 
 - Open the HTML file in a web browser.
@@ -28,6 +26,7 @@ Financial Analysis
 - Code Explanation.
 - The JavaScript code calculates the required financial metrics and logs the results to the console.
 
+## Calculations
 Total Months: Calculated using the length of the dataset.
 
 Total: The net total amount of Profit/Losses over the entire period.
@@ -36,7 +35,7 @@ Average Change: The average of the changes in Profit/Losses over the entire peri
 
 Greatest Increase: The month and amount with the greatest increase in Profit/Losses.
 
-**Greatest Decrease:** The month and amount with the greatest decrease in Profit/Losses.
+Greatest Decrease: The month and amount with the greatest decrease in Profit/Losses.
 
 
 ## Link to deployed website:
